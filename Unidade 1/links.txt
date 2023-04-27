@@ -1,0 +1,8 @@
+
+link trabalho 1: https://github.com/luizdts/artificial-intelligence/blob/main/Unidade%201/filtro_naivebayes.ipynb
+
+link trabalho 2: https://github.com/luizdts/artificial-intelligence/blob/main/Unidade%201/random-forest.ipynb
+
+link naive bayes: https://colab.research.google.com/drive/10u5WxdMTEVglQTRsxvKeP1iMl2R3nTgu#scrollTo=nYusp--e2OMP
+
+link random forest: https://colab.research.google.com/drive/11srJ31meB8Fk-_8io5MFTcuGsEIaduuC#scrollTo=wyb_fWaUqEvW
